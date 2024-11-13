@@ -575,6 +575,14 @@ img.time-spent-graph{
     margin-top: 15px;
 }
 
+.business-eng{
+    background-color: rgba(243, 109, 86, 0.5);
+}
+
+.business{
+    background-color: #F36D56;
+}
+
 .course-items{
     width: 48%;
     border-radius: 10px;
